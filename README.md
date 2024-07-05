@@ -1,49 +1,49 @@
-# TypeScript
+# Datilografado
 
-[![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
-[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)
+ [![CI de ações do GitHub](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
+ [![versão npm](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
+ [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
+ [![Scorecard OpenSSF](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/  Datilografado)
 
 
-[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescript).
+ [TypeScript](https://www.typescriptlang.org/) é uma linguagem para JavaScript em escala de aplicação.  TypeScript adiciona tipos opcionais ao JavaScript que oferecem suporte a ferramentas para aplicativos JavaScript de grande escala para qualquer navegador, para qualquer host, em qualquer sistema operacional.  TypeScript compila em JavaScript legível e baseado em padrões.  Experimente no [playground](https://www.typescriptlang.org/play/) e mantenha-se atualizado através do [nosso blog](https://blogs.msdn.microsoft.com/typescript) e [  Conta do Twitter](https://twitter.com/typescript).
 
-Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
+ Encontre outras pessoas que usam TypeScript em [nossa página da comunidade](https://www.typescriptlang.org/community/).
 
-## Installing
+ ## Instalando
 
-For the latest stable version:
+ Para a versão estável mais recente:
 
-```bash
-npm install -D typescript
-```
+ ```bash
+ npm instalar -D texto digitado
+ ```
 
-For our nightly builds:
+ Para nossas compilações noturnas:
 
-```bash
-npm install -D typescript@next
-```
+ ```bash
+ npm install -D typescript@próximo
+ ```
 
-## Contribute
+ ## Contribuir
 
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
-* Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
-* Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
-* Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
-* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
-* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
+ Há muitas maneiras de [contribuir](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) para o TypeScript.
+ * [Envie bugs](https://github.com/microsoft/TypeScript/issues) e ajude-nos a verificar as correções à medida que são verificadas.
+ * Revise as [alterações no código-fonte](https://github.com/microsoft/TypeScript/pulls).
+ * Interaja com outros usuários e desenvolvedores de TypeScript no [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
+ * Ajudem uns aos outros no [TypeScript Community Discord](https://discord.gg/typescript).
+ * Participe da discussão [#typescript](https://twitter.com/search?q=%23TypeScript) no Twitter.
+ * [Contribua com correções de bugs](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
-the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
+ Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).  Para mais informações, veja
+ as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou entre em contato com [opencode@microsoft.com](mailto:opencode@microsoft.com)
+ com quaisquer perguntas ou comentários adicionais.
 
-## Documentation
+ ## Documentação
 
-*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-*  [Homepage](https://www.typescriptlang.org/)
+ * [TypeScript em 5 minutos](https://www.typescriptlang.org/docs/handbook/typescript-in-5- Minutes.html)
+ * [Manual de programação](https://www.typescriptlang.org/docs/handbook/intro.html)
+ * [Página inicial](https://www.typescriptlang.org/)
 
-## Roadmap
+ ## Roteiro
 
-For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
+ Para obter detalhes sobre nossos recursos planejados e orientações futuras, consulte nosso [roteiro](https://github.com/microsoft/TypeScript/wiki/Roadmap).
