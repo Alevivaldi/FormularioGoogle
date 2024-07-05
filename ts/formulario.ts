@@ -44,9 +44,10 @@ const pForm=document.createElement(`p`);
 liForm.appendChild(pForm)
 pForm.textContent=`Um formulário simples para voçê nos informar quais suas necessidades de negócio para seu site web`
 const aForm = document.createElement(`a`);
-aForm.setAttribute("href","https://forms.gle/LcGMzzAsgcANNQQN7");
-aForm.setAttribute("target","blank");
 liForm.appendChild(aForm);
+aForm.setAttribute("href","https://forms.gle/LcGMzzAsgcANNQQN7");
+aForm.setAttribute("target","_blank");
+
 aForm.textContent=`Inserir`;
 const foter =document.querySelector(`footer .container p`);
 if(foter!==null){
