@@ -46,4 +46,10 @@ pForm.textContent=`Um formulário simples para voçê nos informar quais suas ne
 const aForm = document.createElement(`a`);
 aForm.setAttribute("href","https://forms.gle/LcGMzzAsgcANNQQN7");
 liForm.appendChild(aForm);
-aForm.textContent=`Inserir`
+aForm.textContent=`Inserir`;
+const foter =document.querySelector(`footer .container p`);
+if(foter!==null){
+    foter.textContent=`Contato: telefone: (21) 9 9108-1578 | E-mail: thg6321@gmail.com`
+}else{
+    console.log(Error);
+}
